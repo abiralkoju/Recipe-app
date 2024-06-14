@@ -4,6 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 import Search from "../Components/Search";
 import { Link } from "react-router-dom";
 import { GiKnifeFork } from "react-icons/gi";
+import styled from "styled-components";
 
 const App = () => {
   return (

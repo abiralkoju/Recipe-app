@@ -1,6 +1,7 @@
 import React from "react";
 import Popular from "../Components/Popular";
 import Veggies from "../Components/Veggies";
+import { motion } from "framer-motion";
 
 const Home = () => {
   return (
